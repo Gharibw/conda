@@ -11,3 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - pyjwt >= 1.6
+  - requests >= 2.23
+  - pyyaml >= 5
+  - tensorflow
